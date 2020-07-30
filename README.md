@@ -1,4 +1,4 @@
 ## Welcome to GitHub Pages
-- https://soumya997.github.io/Music-Generation-Using-Deep-Learning/
+- Go to this link to visit the code - https://soumya997.github.io/Music-Generation-Using-Deep-Learning/
 
 
