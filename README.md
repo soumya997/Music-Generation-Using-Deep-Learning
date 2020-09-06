@@ -6,7 +6,7 @@ On the 2nd approach, I Using the ABC Sheet music data. Which converted the whole
 <br>
 This is a project which provided more learning in NLP and AI-Audio domain.
 
-## Project code link:
+### Project code link:
 - Go to this link to visit the code - https://soumya997.github.io/Music-Generation-Using-Deep-Learning/
 
 ### **Here is the demo outputs 📺**
@@ -14,10 +14,21 @@ This is a project which provided more learning in NLP and AI-Audio domain.
 ](https://yt-embed.herokuapp.com/embed?v=9vQPwuaiSL4)](https://youtu.be/9vQPwuaiSL4 "Demo Output Music Lyrics Generation using Deep Learning
 ")
 <br>
+<br>
+
 **Charecters used mostly in the inputed ABC sheet musics:**
-<center><img src="https://i.imgur.com/Jj1GOtq.png" width="500px"></center>
-**Model Architecture of the model that had been used in the ABC Sheet data:**
-<center><img src="https://i.imgur.com/wGKTpvp.png" width="500px"></center>
+
+<br>
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/Jj1GOtq.png" /></div>
+
+#### Model Architecture of the model that had been used in the ABC Sheet data:
+
+<br>
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/wGKTpvp.png" /></div>
+
+<br>
 
 ### File Structure:
 1. **data** -> is the data folder for  **Music Generation using ABC Sheet Music🎹.ipynb**, here I used the ABC sheet music data which is actually in .txt format. 
@@ -25,11 +36,13 @@ This is a project which provided more learning in NLP and AI-Audio domain.
 3. **schubert** -> Is the datset folder for **music-generation-using-wavenet-and-midi-data.ipynb** which is consist of .midi files.
 4. **index.html** -> is the web form of  **Music Generation using ABC Sheet Music🎹.ipynb**. The link is mentioned above.
 <br>
+
 **Packages Required to Build the Project:**
 
-- Numpy- number python library
-- pandas,RegEx - data handling library
-- Tensorflow 2.0 - Deep Learning Library
-- Music21 - For handeling midi files
-- Matplotlib,Seaborn, Plotly, Bokeh - Visualization purpose
-- json,os -utility packages
+- **Numpy**- number python library
+- **pandas,RegEx** - data handling library
+- **Tensorflow 2.0** - Deep Learning Library
+- **Music21** - For handeling midi files
+- **Matplotlib,Seaborn, Plotly, Bokeh** - Visualization purpose
+- **json,os** -utility packages
+
