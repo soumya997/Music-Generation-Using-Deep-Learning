@@ -46,4 +46,4 @@ This is a project which provided more learning in NLP and AI-Audio domain.
 - **Matplotlib,Seaborn, Plotly, Bokeh** - Visualization purpose
 - **json,os** -utility packages
 
-**Please star this repo if you like it. It motivates me to produce more quality content :)**
+**Please star🌟 this repo if you like it. It motivates me to produce more quality content :)**
