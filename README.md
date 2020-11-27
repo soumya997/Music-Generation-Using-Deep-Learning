@@ -1,10 +1,10 @@
 # Music Generation Using Deep-Learning 🎵🎶
 ### What is this Project all about🤔:
-As the name suggests, this project is about **generating musing using Deep Learning**. Two approaches were used.  One is using .midi files for generating the music for that I used the LSTM model and WaveNet both but LSTM gave better results. A piano music tone was generated in this project. For handling Music Data Music21 library was used. Code-  **music-generation-using-wavenet-and-midi-data.ipynb**. Inspiration -> https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
+As the name suggests, this project is about **generating musing using Deep Learning**. Two approaches were used.  One is using .midi files for generating the music for that I used the LSTM model and WaveNet both but WaveNet gave better results. A piano music tone was generated in this project. For handling Music Data Music21 library was used. Code-  **music-generation-using-wavenet-and-midi-data.ipynb**. Inspiration -> https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
 <br><br>
 
 
-On the 2nd approach, I used the ABC Sheet music data. Which converted the whole problem statement from AI-Audio domain to NLP domain. Here multi-layer LSTM had been used. Now the performance more improved than the waveNet model, generated music is longer and more pleasant to here. Here also the generated music is Piano tone. Code-> **Music Generation using ABC Sheet Music🎹.ipynb**. **Demo Output.mp4** is the output. Used this website(https://www.abcjs.net/abcjs-editor.html) to convert outputed abc sheet music to real music.
+On the 2nd approach, I used the ABC Sheet music data with LSTM. Which converted the whole problem statement from AI-Audio domain to NLP domain. Here multi-layer LSTM had been used. Now the performance more improved than the waveNet model, generated music is longer and more pleasant to here. Here also the generated music is Piano tone. Code-> **Music Generation using ABC Sheet Music🎹.ipynb**. **Demo Output.mp4** is the output. Used this website(https://www.abcjs.net/abcjs-editor.html) to convert outputed abc sheet music to real music.
 <br>
 This is a project which provided more learning in NLP and AI-Audio domain.
 
