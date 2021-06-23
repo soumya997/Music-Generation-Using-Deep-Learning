@@ -14,7 +14,13 @@ This is a project which provided more learning in NLP and AI-Audio domain.
 ](https://yt-embed.herokuapp.com/embed?v=9vQPwuaiSL4)](https://youtu.be/9vQPwuaiSL4 "Demo Output Music Lyrics Generation using Deep Learning
 ")
 <br>
+[![Demo Output Music Lyrics Generation using Deep Learning
+](https://yt-embed.herokuapp.com/embed?v=KB00Bb9eRLk)](https://youtu.be/9vQPwuaiSL4 "Demo Output Music Lyrics Generation using Deep Learning
+")
 <br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KB00Bb9eRLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Charecters used mostly in the inputed ABC sheet musics📊:**
 
