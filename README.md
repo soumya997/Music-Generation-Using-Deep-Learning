@@ -10,14 +10,10 @@ This is a project which provided more learning in NLP and AI-Audio domain.
 
 
 ### **Here is the demo outputs 📺**
-[![Demo Output Music Lyrics Generation using Deep Learning
-](https://yt-embed.herokuapp.com/embed?v=9vQPwuaiSL4)](https://youtu.be/9vQPwuaiSL4 "Demo Output Music Lyrics Generation using Deep Learning
-")
+[![Watch the video](https://img.youtube.com/vi/KB00Bb9eRLk/maxresdefault.jpg)](https://youtu.be/KB00Bb9eRLk)
 <br>
-[![Demo Output Music Lyrics Generation using Deep Learning
-](https://yt-embed.herokuapp.com/embed?v=KB00Bb9eRLk)](https://youtu.be/9vQPwuaiSL4 "Demo Output Music Lyrics Generation using Deep Learning
-")
 <br>
+[![Watch the video](https://img.youtube.com/vi/9vQPwuaiSL4/maxresdefault.jpg)](https://youtu.be/9vQPwuaiSL4)
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KB00Bb9eRLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
